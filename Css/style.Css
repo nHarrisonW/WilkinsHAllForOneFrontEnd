@@ -1,0 +1,122 @@
+.limeMacro {
+    background-image: url(../assets/LimeMacro.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.watermelonMacro {
+    background-image: url(../assets/watermelonMacro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.grapefruitMacro {
+    background-image: url(../assets/grapefruitMacro2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.pomegranateMacro {
+    background-image: url(../assets/pomegranateMacro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.blueberriesMacro {
+    background-image: url(../assets/bluerrriesMacro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.papayaMacro {
+    background-image: url(../assets/papayaMacro.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.kiwiMacro {
+    background-image: url(../assets/kiwiMacro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.lemonMacro {
+    background-image: url(../assets/lemonMacro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.appleMacro {
+    background-image: url(../assets/appleMacro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.carrotMacro {
+    background-image: url(../assets/carrotMacro.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+#TitleText {
+    color: white;
+    text-shadow: -2px 2px 3px black;
+    font-family: 'Jura';
+    font-size: 63px;
+    background-color: rgba(0, 0, 0, 0.182); 
+    padding: 1%;
+    display: table;
+    margin-left: 49px;
+}
+#HeroText {
+    color: white;
+    text-shadow: -2px 2px 2px black;
+    font-family: 'Jura';
+    font-size: 42px;
+    display: table;
+    background-color: rgba(0, 0, 0, 0.182); 
+    padding: 2%;
+    margin-left: 48px;
+}
+#InputField {
+    color: white;
+    text-shadow: -2px 2px 2px black;
+    font-family: 'Jura';
+    font-size: 36px;
+    display: table;
+    background-color: rgba(0, 0, 0, 0.182); 
+    padding: 1.7%;
+    margin: 5%;
+}
+.row1 {
+    /* display: flex; */
+    justify-content: space-evenly;
+    padding: 31px 2.5% ;
+    font-family: 'Jura';
+    align-items: center;
+    margin-left: 29px;
+}
+.btn-primary {
+    border-color: #FE9800 !important;
+    border-radius: 2px !important;
+    background-color: #FE9800 !important;
+    width: 20% !important; height: 93px !important;
+    text-shadow: -1px 1px 4px black !important;
+    font-size: 28px !important; color: black !important;
+    text-align: left !important;
+    margin-right: 9%;
+}
+footer {
+    text-align: center;
+    padding: 3%;
+    font-family: 'Jura';
+    font-size: 24px; color: white;
+    text-shadow: -1px 1px 4px black;
+    background-color: rgba(0, 0, 0, 0.182); 
+    display: table;
+}
+.with2 {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 16px;
+}
