@@ -78,7 +78,82 @@
     padding: 2%;
     margin-left: 48px;
 }
-#InputField {
+#OutputField {
+    color: white;
+    text-shadow: -2px 2px 2px black;
+    font-family: 'Jura';
+    font-size: 36px;
+    display: table;
+    background-color: rgba(0, 0, 0, 0.182); 
+    padding: 1.7%;
+    margin: 5%;
+}
+#mc2OutputField {
+    color: white;
+    text-shadow: -2px 2px 2px black;
+    font-family: 'Jura';
+    font-size: 36px;
+    display: table;
+    background-color: rgba(0, 0, 0, 0.182); 
+    padding: 1.7%;
+    margin: 5%;
+}#mc3OutputField {
+    color: white;
+    text-shadow: -2px 2px 2px black;
+    font-family: 'Jura';
+    font-size: 36px;
+    display: table;
+    background-color: rgba(0, 0, 0, 0.182); 
+    padding: 1.7%;
+    margin: 5%;
+}#mc4OutputField {
+    color: white;
+    text-shadow: -2px 2px 2px black;
+    font-family: 'Jura';
+    font-size: 36px;
+    display: table;
+    background-color: rgba(0, 0, 0, 0.182); 
+    padding: 1.7%;
+    margin: 5%;
+}#mc5OutputField {
+    color: white;
+    text-shadow: -2px 2px 2px black;
+    font-family: 'Jura';
+    font-size: 36px;
+    display: table;
+    background-color: rgba(0, 0, 0, 0.182); 
+    padding: 1.7%;
+    margin: 5%;
+}#mc6OutputField {
+    color: white;
+    text-shadow: -2px 2px 2px black;
+    font-family: 'Jura';
+    font-size: 36px;
+    display: table;
+    background-color: rgba(0, 0, 0, 0.182); 
+    padding: 1.7%;
+    margin: 5%;
+}#mc7OutputField {
+    color: white;
+    text-shadow: -2px 2px 2px black;
+    font-family: 'Jura';
+    font-size: 36px;
+    display: table;
+    background-color: rgba(0, 0, 0, 0.182); 
+    padding: 1.7%;
+    margin: 5%;
+}
+#mc8OutputField {
+    color: white;
+    text-shadow: -2px 2px 2px black;
+    font-family: 'Jura';
+    font-size: 36px;
+    display: table;
+    background-color: rgba(0, 0, 0, 0.182); 
+    padding: 1.7%;
+    margin: 5%;
+}
+#mc9OutputField {
     color: white;
     text-shadow: -2px 2px 2px black;
     font-family: 'Jura';
@@ -114,6 +189,9 @@ footer {
     text-shadow: -1px 1px 4px black;
     background-color: rgba(0, 0, 0, 0.182); 
     display: table;
+}
+.row {
+    margin: 0;
 }
 .with2 {
     display: flex;
