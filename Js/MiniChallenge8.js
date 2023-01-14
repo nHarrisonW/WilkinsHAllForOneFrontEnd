@@ -34,3 +34,5 @@ function sayHello(whiteBox, whiteBox2, whiteBox3, whiteBox4) {
         Challenge8Url = 'https://harrisonsallforone.azurewebsites.net/MiniChallenge8/GetStudentByFirstName/' + savedName1;
         urlCall(Challenge8Url)
 }
+
+// I assume i need another function, sayHello2? I couldnt get the rest to work but getting student by their first name works
